@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="@drawable/mapblurbg"
+    tools:context=".LauncherActivity">
+
+
+
+    <SearchView
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:theme="@style/Widget.AppCompat.Light.SearchView"
+        android:queryHint="Search Location"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Login"
+        android:id="@+id/loginbt"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textColor="@android:color/holo_green_light"
+        android:layout_marginTop="30dp"
+       />
+
+
+
+</LinearLayout>

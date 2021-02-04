@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17450329374",
+    "project_id": "gymscope1",
+    "storage_bucket": "gymscope1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17450329374:android:5566ec95ecd7936b24150f",
+        "android_client_info": {
+          "package_name": "com.techiesatelier.gymscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17450329374-qlbkv2dt8aov4dt35l25gmksc0gvjsqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKnTwCWDREEesTTU1GkcPeUpnQsYxFVwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17450329374-qlbkv2dt8aov4dt35l25gmksc0gvjsqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
