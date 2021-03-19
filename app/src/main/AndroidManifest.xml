@@ -10,9 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GymScope">
         <activity android:name=".LoginActivity"></activity>
-        <activity
-            android:name=".ui.login.LoginActivity"
-            android:label="@string/title_activity_login" />
+
         <activity android:name=".LauncherActivity" />
         <activity android:name=".SplashScreen">
             <intent-filter>
