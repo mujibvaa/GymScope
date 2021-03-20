@@ -42,12 +42,15 @@ public class MainActivity extends AppCompatActivity {
         cardView = findViewById(R.id.cardView);
         cardView2 = findViewById(R.id.cardView2);
         cardView3 = findViewById(R.id.cardView3);
+
         imageView = findViewById(R.id.imageView);
+
         textView = findViewById(R.id.firstText);
         textView2 = findViewById(R.id.textView);
         textView3 = findViewById(R.id.textView2);
         textView4 = findViewById(R.id.textView3);
         textView5 = findViewById(R.id.textView4);
+
         searchView = findViewById(R.id.searchView);
         //Load Animations
         anim_from_button = AnimationUtils.loadAnimation(this, R.anim.anim_from_bottom);
